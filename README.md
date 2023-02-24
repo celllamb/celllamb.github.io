@@ -1,2 +1,2 @@
 # LAMB
-Lab of Applied microbial diversity
+Lab of Applied Microbial Diversity
